@@ -1,2 +1,2 @@
-# cg3d-web
-Website for CG3D
+# IPH-web
+Website for "Interactive Portrait Harmonization"
