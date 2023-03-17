@@ -1,2 +1,2 @@
 # IPH-web
-Website for "Interactive Portrait Harmonization"
+Website for "CLIP goes 3D"
